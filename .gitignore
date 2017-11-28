@@ -29,4 +29,6 @@ trunk/JSTool.xcworkspace/xcshareddata/*
 *.old
 *.suo
 *.user
+*.VC.db
+*.VC.opendb
 UpgradeLog*
